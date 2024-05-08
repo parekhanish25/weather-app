@@ -88,10 +88,6 @@ class _LoadingState extends State<Loading> {
               SizedBox(
                 height: 15,
               ),
-              // Text(
-              //   "Made By Yashil Busa",
-              //   style: TextStyle(fontSize: 18, color: Colors.white),
-              // ),
               SizedBox(
                 height: 30,
               ),
